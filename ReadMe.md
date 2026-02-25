@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studing for the Oracle 1z0-811 exam<br>I love programing<br>I love thinkering with arduino boards<br>I love cybersecurity
+Java Developer<br>I'm currently studing for the Oracle 1z0-811 exam<br>I love programing<br>I love thinkering with arduino boards<br>I love cybersecurity
 
 
 ## 🌐 Socials:
